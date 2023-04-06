@@ -7,25 +7,6 @@ last_edited: 2023-04-06
 
 This note is a work in progress documenting my process of learning the [Go programming language](https://go.dev/). Its purpose is merely to document, and as such, it is likely to include errors, which I hope will get corrected over time. Follow at your own discretion.
 
-## Table of contents
-
-1. [[#Go concepts - WIP|Go concepts - WIP]]
-	1. [[#Go concepts - WIP#Creating a Go project - WIP|Creating a Go project - WIP]]
-	1. [[#Go concepts - WIP#Data structures - WIP|Data structures - WIP]]
-		1. [[#Data structures - WIP#Arrays and slices - WIP|Arrays and slices - WIP]]
-		1. [[#Data structures - WIP#Structs - WIP|Structs - WIP]]
-		1. [[#Data structures - WIP#Interfaces - TODO|Interfaces - TODO]]
-1. [[#Projects|Projects]]
-	1. [[#Projects#Web crawler with a command-line interface (WIP)|Web crawler with a command-line interface (WIP)]]
-		1. [[#Web crawler with a command-line interface (WIP)#Description|Description]]
-		1. [[#Web crawler with a command-line interface (WIP)#Objectives|Objectives]]
-		1. [[#Web crawler with a command-line interface (WIP)#Getting acquainted with `colly`|Getting acquainted with `colly`]]
-		1. [[#Web crawler with a command-line interface (WIP)#The `flag` library|The `flag` library]]
-		1. [[#Web crawler with a command-line interface (WIP)#Back to the example|Back to the example]]
-		1. [[#Web crawler with a command-line interface (WIP)#Goquery|Goquery]]
-		1. [[#Web crawler with a command-line interface (WIP)#Refactoring long callback functions|Refactoring long callback functions]]
-
-
 ## Go concepts - WIP
 
 In this section, I document concepts related to the language that I have learned through one of the projects listed in the further sections.
